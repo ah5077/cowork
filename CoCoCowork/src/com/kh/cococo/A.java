@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 package com.kh.cococo;
 
 public class A {
-
+	public void test() {
+		
+	}
 }
-=======
-package com.kh.cococo;
-
-public class A {
-
-}
->>>>>>> refs/remotes/origin/master
