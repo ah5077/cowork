@@ -1,7 +1,9 @@
 package com.kh.cococo;
 
 public class Hoon {
-	public void test() {
-		
+
+	public int add(int x, int y) {
+		return x + y;
 	}
+	
 }
