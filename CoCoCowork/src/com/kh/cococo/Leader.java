@@ -8,4 +8,7 @@ public class Leader {
 	public void test() {
 		
 	}
+	public void test2() {
+		
+	}
 }
